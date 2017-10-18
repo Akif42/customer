@@ -9,4 +9,4 @@
 print_r("hello world");
 exit();
 
- /// main kısmı olacak
+ /// main kısmı olacak mı
