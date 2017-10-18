@@ -9,4 +9,6 @@
 print_r("hello world");
 exit();
 
- /// main kısmı olacak mı
+foreach (a as $item) {
+    
+}
