@@ -8,3 +8,5 @@
 
 print_r("hello world");
 exit();
+
+ /// main kısmı olacak
