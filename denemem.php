@@ -7,4 +7,4 @@
  */
 
 print_r("hello world");
-exit();
+exit();// kardes bunu bi kaldır hele yoksa program çalısmaz
