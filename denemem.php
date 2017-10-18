@@ -10,5 +10,5 @@ print_r("hello world");
 exit();
 
 foreach (a as $item) {
-    
+    $item = 5;
 }
