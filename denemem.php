@@ -7,3 +7,4 @@
  */
 
 print_r("hello world");
+exit();
